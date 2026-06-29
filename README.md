@@ -53,12 +53,3 @@ all reported results without the raw audio.
 Dependencies: Python 3.11, `numpy pandas scipy scikit-learn statsmodels matplotlib seaborn`
 (feature extraction additionally needs `praat-parselmouth`, `transformers`, `torch`, `soundfile`).
 
-## Citation
-
-If you use this dataset or code, please cite the accompanying paper (full reference to be added
-upon publication).
-
-## License
-
-- **Code** (`code/`): MIT License (see `LICENSE`).
-- **Data** (`data/`): Creative Commons Attribution 4.0 International (CC BY 4.0; see `DATA_LICENSE.md`).
