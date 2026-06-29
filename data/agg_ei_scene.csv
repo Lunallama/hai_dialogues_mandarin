@@ -1,0 +1,4 @@
+scene,n,mean,sd,median
+arguing,408,0.014,0.926,-0.026
+comforting,419,0.031,0.977,-0.032
+neutral,406,-0.046,1.092,-0.116

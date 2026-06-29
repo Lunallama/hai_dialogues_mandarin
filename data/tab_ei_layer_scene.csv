@@ -1,0 +1,4 @@
+layer,arguing,comforting,neutral
+Spectral (MFCC),0.117,-0.044,-0.163
+Prosodic,0.04,0.05,-0.011
+High-level (wav2vec2),-0.317,-0.059,-0.227

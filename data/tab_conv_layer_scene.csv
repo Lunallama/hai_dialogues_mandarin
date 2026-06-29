@@ -1,0 +1,10 @@
+layer,scene,n,slope,conv,div
+Spectral (MFCC),arguing,38,-0.0,0.1053,0.0526
+Spectral (MFCC),comforting,39,0.0,0.0256,0.0513
+Spectral (MFCC),neutral,38,0.0,0.0263,0.0789
+Prosodic,arguing,335,-0.0142,0.0687,0.0627
+Prosodic,comforting,347,0.0004,0.0663,0.0778
+Prosodic,neutral,336,0.0048,0.0804,0.1042
+High-level (wav2vec2),arguing,38,0.0,0.0526,0.1579
+High-level (wav2vec2),comforting,39,0.0,0.0256,0.0256
+High-level (wav2vec2),neutral,38,0.0,0.0789,0.1316

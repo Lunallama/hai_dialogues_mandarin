@@ -1,0 +1,4 @@
+layer,a2h,h2a
+Spectral (MFCC),-0.0,-0.0
+Prosodic,-0.0009,-0.0072
+High-level (wav2vec2),0.0,0.0
